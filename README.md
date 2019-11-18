@@ -1,6 +1,6 @@
 # Awesome Best Paper
 
-This repo collects best papers from various top conferences *since 2013*. All the data are collected and entered by hand, so *feel free to open an issue if you find something wrong*. You can also contribute to this repo by *creating pull requests*. Part of the data is collected by Jeff Huang. If you are interested in more best papers in computer science (since 1996), you can visit [his website](https://jeffhuang.com/best_paper_awards.html).
+This repo collects best papers from various top conferences *since 2013*. All the data are collected and entered by hand, so *feel free to open an issue if you find anything wrong*. You can also contribute to this repo by *creating pull requests*. Part of the data is collected by Jeff Huang. If you are interested in more best papers in computer science (since 1996), you can visit [his website](https://jeffhuang.com/best_paper_awards.html).
 
 TODO:
 

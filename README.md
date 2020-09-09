@@ -1,6 +1,6 @@
 # Awesome Best Papers
 
-该项目收集了各大顶会的最佳论文（*自 2013 年起*）。所有的数据都是手工输入的，所以 *如果你发现有任何错误，欢迎开个 issue 提醒我*。你也可以通过*创建 pull requests* 的方式参与到这个项目中来。项目中的部分数据参考了 Jeff Huang 的网站，他收集了自 1996 年起计算机科学领域部分顶会的最佳论文，如果你感兴趣，也可以访问[他的网站](https://jeffhuang.com/best_paper_awards.html)。
+该项目收集了各大顶会的最佳论文（*自 2013 年起*）。所有的数据都是手工输入的，所以*如果你发现有任何错误，欢迎开个 issue 提醒我*。你也可以通过*创建 pull requests* 的方式参与到这个项目中来。项目中的部分数据参考了 Jeff Huang 的网站，他收集了自 1996 年起计算机科学领域部分顶会的最佳论文，如果你感兴趣，也可以访问[他的网站](https://jeffhuang.com/best_paper_awards.html)。
 
 This repo collects best papers from various top conferences (*since 2013*). All the data are collected and entered by hand, so *feel free to open an issue if you find anything wrong*. You can also contribute to this repo by *creating pull requests*. Part of the data is collected by Jeff Huang. If you are interested in more best papers in computer science (since 1996), you can visit [his website](https://jeffhuang.com/best_paper_awards.html).
 
@@ -34,7 +34,7 @@ TODO:
 <a id="aaai"></a>
 ## AAAI
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2019 | **How to Combine Tree-Search Methods in Reinforcement Learning**<br>Yonathan Efroni (Technion); Gal Dala (Technion); Bruno Scherrer (INRIA); Shie Mannor (Technion) |
 | 2018 | **Memory-Augmented Monte Carlo Tree Search**<br>Chenjun Xiao (University of Alberta); Jincheng Mei (University of Alberta); Martin Müller (University of Alberta) |
@@ -47,7 +47,7 @@ TODO:
 <a id="ijcai"></a>
 ## IJCAI
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2019 | **Boosting for Comparison-Based Learning**<br>Michaël Perrot (Max-Planck-Institute for Intelligent Systems); Ulrike von Luxburg (University of Tubingen) |
 | 2018 | 1. **Reasoning about Consensus when Opinions Diffuse through Majority Dynamics**<br>Vincenzo Auletta (University of Salerno); Diodato Ferraioli (University of Salerno); Gianluigi Greco (University of Calabria)<br>2. **SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks**<br>Ke Wang (Peking University); Xiaojun Wan (Peking University)<br>3. **From Conjunctive Queries to Instance Queries in Ontology-Mediated Querying**<br>Cristina Feier (University of Bremen); Carsten Lutz (University of Bremen); Frank Wolte (University of Liverpool)<br>4. **What game are we playing? End-to-end learning in normal and extensive form games**<br>Chun Kai Ling (Carnegie Mellon University); Fei Fang (Carnegie Mellon University); J. Zico Kolter (Carnegie Mellon University)<br>5. **Commonsense Knowledge Aware Conversation Generation with Graph Attention**<br>Hao Zhou (Tsinghua University); Tom Young (Beijing Institute of Technology); Minlie Huang (Tsinghua University); Haizhou Zhao, Sogou Inc.; Jingfang Xu, Sogou Inc.; Xiaoyan Zhu (Tsinghua University)<br>6. **R-SVM+: Robust Learning with Privileged Information**<br>Xue Li (Wuhan University); Bo Du (Wuhan University); Chang Xu (University of Sydney); Yipeng Zhang (Wuhan University); Lefei Zhang (Wuhan University); Dacheng Tao (University of Sydney)<br>7. **A Degeneracy Framework for Graph Similarity**<br>Giannis Nikolentzos, École Polytechnique; Polykarpos Meladianos (Athens University of Economics and Business); Stratis Limnios, École Polytechnique; Michalis Vazirgiannis (École Polytechnique) |
@@ -62,7 +62,7 @@ TODO:
 <a id="icml"></a>
 ## ICML
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2018 | 1. **Delayed Impact of Fair Machine Learning**<br>Lydia T. Liu (University of California Berkeley); Sarah Dean (University of California Berkeley); Esther Rolf (University of California Berkeley); Max Simchowitz (University of California Berkeley); Moritz Hardt (University of California Berkeley)<br>2. **Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples**<br>Anish Athalye (Massachusetts Institute of Technology); Nicholas Carlini (University of California Berkeley); David Wagner (University of California Berkeley) |
 | 2017 | **Understanding Black-box Predictions via Influence Functions**<br>Pang Wei Koh (Stanford University); Percy Liang (Stanford University) |
@@ -73,7 +73,7 @@ TODO:
 
 <a id="www"></a>
 ## WWW
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2019 | 1. **Ermes: Emoji-Powered Representation Learning for Cross-Lingual Sentiment Classification**<br>Zhenpeng Chen (Peking University); Sheng Shen (University of California, Berkeley); Ziniu Hu (University of California, Berkeley); Xuan Lu (Peking University); Qiaozhu Mei (University of Michigan); Xuanzhe Liu (Peking University)<br>2. **OUTGUARD: Detecting In-Browser Covert Cryptocurrency Mining in the Wild**<br>Amin Kharraz (University of Illinois at Urbana-Champaign); Zane Ma (University of Illinois at Urbana-Champaign); Paul Murley (University of Illinois at Urbana-Champaign); Charles Lever (Georgia Institute of Technology); Joshua Mason (University of Illinois at Urbana-Champaign); Andrew Miller (University of Illinois at Urbana-Champaign); Nikita Borisov (University of Illinois at Urbana-Champaign); Manos Antonakakis (Georgia Institute of Technology); Michael Bailey, University of Illinois at Urbana-Champaign |
 | 2018 | **HighLife: Higher-arity Fact Harvesting**<br>Patrick Ernst (Saarland Informatics Campus in Saarbrücken); Amy Siu (Saarland Informatics Campus in Saarbrücken); Gerhard Weikum (Saarland Informatics Campus in Saarbrücken) |
@@ -87,7 +87,7 @@ TODO:
 <a id="kdd"></a>
 ## KDD
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2018 | **Adversarial Attacks on Neural Networks for Graph Data**<br>Daniel Zügner (Technical University of Munich); Amir Akbarnejad (Technical University of Munich); Stephan Günnemann (Technical University of Munich) |
 | 2017 | **Accelerating Innovation Through Analogy Mining**<br>Tom Hope (Hebrew University of Jerusalem); Joel Chan (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Dafna Shahaf (Hebrew University of Jerusalem) |
@@ -98,7 +98,7 @@ TODO:
 
 <a id="sigir"></a>
 ## SIGIR
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2018 | **Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems**<br>Rocío Cañamares (Universidad Autónoma de Madrid); Pablo Castells (Universidad Autónoma de Madrid) |
 | 2017 | **BitFunnel: Revisiting Signatures for Search**<br>Bob Goodwin (Microsoft); Michael Hopcroft (Microsoft); Dan Luu (Microsoft); Alex Clemmer (Heptio); Mihaela Curmei (Microsoft); Sameh Elnikety (Microsoft); Yuxiong He (Microsoft) |
@@ -110,7 +110,7 @@ TODO:
 <a id="cikm"></a>
 ## CIKM
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2018 | **Relevance estimation with multiple information sources on search engine result pages**<br>Junqi Zhang (Tsinghua University); Yiqun Liu (Tsinghua University); Shaoping Ma (Tsinghua University); Qi Tian (University of Texas at San Antonio) |
 | 2017 | **Hike: A Hybrid Human-Machine Method for Entity Alignment in Large-Scale Knowledge Bases**<br>Yan Zhuang (Tsinghua University); Guoliang Li (Tsinghua University); Zhuojian Zhong (Tsinghua University); Jianhua Feng (Tsinghua University) |
@@ -130,7 +130,7 @@ TODO:
 <a id="cvpr"></a>
 ## CVPR
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2018 | **Taskonomy: Disentangling Task Transfer Learning**<br>Amir R. Zamir (Stanford University); Alexander Sax (Stanford University); William Shen (Stanford University); Leonidas Guibas (Stanford University); Jitendra Malik (University of California Berkeley); Silvio Savarese (Stanford University) |
 | 2017 | 1. **Densely Connected Convolutional Networks**<br>Zhuang Liu (Tsinghua University); Gao Huang (Cornell University); Laurens van der Maaten (Facebook AI Research); Kilian Q. Weinberger (Cornell University)<br>2. **Learning from Simulated and Unsupervised Images through Adversarial Training**<br>Ashish Shrivastava, Apple Inc.; Tomas Pfister, Apple Inc.; Oncel Tuzel, Apple Inc.; Josh Susskind, Apple Inc.; Wenda Wang, Apple Inc.; Russ Webb, Apple Inc. |
@@ -142,7 +142,7 @@ TODO:
 <a id="iccv"></a>
 ## ICCV
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2017 | **Mask R-CNN**<br> Kaiming He (Facebook AI Research); Georgia Gkioxari (Facebook AI Research); Piotr Dollar (Facebook AI Research); Ross Girshick (Facebook AI Research) |
 | 2015 | **Deep Neural Decision Forests**<br>Peter Kontschieder (Microsoft Research); Madalina Fiterau (Carnegie Mellon University); Antonio Criminisi (Microsoft Research); Samuel Rota Bulò (Microsoft Research) |
@@ -153,7 +153,7 @@ TODO:
 <a id="acl"></a>
 ## ACL
 
-| Year | Ppaer |
+| Year | Paper |
 |:-:|:-|
 | 2018 | **Finding syntax in human encephalography with beam search**<br>John Hale (Cornell University); Chris Dyer (DeepMind); Adhiguna Kuncoro (University of Oxford); Jonathan R. Brennan (University of Michigan) |
 | 2017 | **Probabilistic Typology: Deep Generative Models of Vowel Inventories**<br>Ryan Cotterell (Johns Hopkins University); Jason Eisner (Johns Hopkins University) |

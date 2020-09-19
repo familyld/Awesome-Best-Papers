@@ -1,13 +1,8 @@
 # Awesome Best Papers
 
-本项目收集了各大顶会的最佳论文（*自 2013 年起*）。所有的数据都是手工输入的，所以*如果你发现有任何错误，欢迎开个 issue 提醒我*。你也可以通过*创建 pull requests* 的方式参与到这个项目中来。项目中的部分数据参考了 Jeff Huang 的网站，他收集了自 1996 年起计算机科学领域部分顶会的最佳论文，如果你感兴趣，也可以访问[他的网站](https://jeffhuang.com/best_paper_awards.html)。
+本项目收集了各大顶会的最佳论文（*自 2013 年起*）。所有的数据都是手工输入的，所以 *如果你发现有任何错误，欢迎开个 issue 提醒我*。你也可以通过 *创建 pull requests* 的方式参与到这个项目中来。项目中的部分数据参考了 Jeff Huang 的网站，他收集了自 1996 年起计算机科学领域部分顶会的最佳论文，如果你感兴趣，也可以访问[他的网站](https://jeffhuang.com/best_paper_awards.html)。
 
 This repo collects best papers from various top conferences (*since 2013*). All the data are collected and entered by hand, so *feel free to open an issue if you find anything wrong*. You can also contribute to this repo by *creating pull requests*. Part of the data is collected by Jeff Huang. If you are interested in more best papers in computer science (since 1996), you can visit [his website](https://jeffhuang.com/best_paper_awards.html).
-
-## TODO
-
-1. [ ] Add newest best papers (2020)
-2. [ ] Add paper links
 
 # Table of Content
 - Cross-domain
@@ -21,14 +16,14 @@ This repo collects best papers from various top conferences (*since 2013*). All 
     + [KDD](#kdd)
     + [SIGIR](#sigir)
     + [CIKM](#cikm)
-    + [ICDM](#icdm)
-    + [WSDM](#wsdm)
+    + [ICDM](#icdm) (TODO)
+    + [WSDM](#wsdm) (TODO)
 - Computer Vision
     + [CVPR](#cvpr)
     + [ICCV](#iccv)
 - Natural Language Processing 
     + [ACL](#acl)
-    + [EMNLP](#emnlp)
+    + [EMNLP](#emnlp) (TODO)
 
 <a id="aaai"></a>
 ## AAAI
@@ -61,6 +56,15 @@ IJCAI Distinguished papers.
 
 <a id="neurips"></a>
 ## NeurIPS
+| Year | Paper |
+|:-:|:-|
+| 2019 | **[Distribution-Independent PAC Learning of Halfspaces with Massart Noise](https://arxiv.org/pdf/1906.10075.pdf)**<br>Ilias Diakonikolas (University of Wisconsin-Madison); Themis Gouleakis (Max Planck Institute for Informatics) |
+| 2018 | 1. **[Non-delusional Q-learning and Value-iteration](https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf)**<br>Tyler Lu; Dale Schuurmans; Craig Boutilier<br>2. **[Optimal Algorithms for Non-Smooth Distributed Optimization in Networks](https://papers.nips.cc/paper/7539-optimal-algorithms-for-non-smooth-distributed-optimization-in-networks.pdf)**<br>Kevin Scaman ; Francis Bach ; Sebastien Bubeck ; Laurent Massoulié ; Yin Tat Lee<br>3. **[Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians via Sample Compression Schemes](https://papers.nips.cc/paper/7601-nearly-tight-sample-complexity-bounds-for-learning-mixtures-of-gaussians-via-sample-compression-schemes.pdf)**<br>Hassan Ashtiani ; Shai Ben-David ; Nick Harvey ; Christopher Liaw ; Abbas Mehrabian ; Yaniv Plan<br>4. **[Neural Ordinary Differential Equations](https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf)**<br>Tian Qi Chen ; Yulia Rubanova ; Jesse Bettencourt ; David Duvenaud |
+| 2017 | 1. **[Safe and Nested Subgame Solving for Imperfect-Information Games](http://papers.nips.cc/paper/6671-safe-and-nested-subgame-solving-for-imperfect-information-games.pdf)**<br>Noam Brown (Carnegie Mellon University); Tuomas Sandholm(Carnegie Mellon University)<br>2. **[Variance-based Regularization with Convex Objectives](https://papers.nips.cc/paper/6890-variance-based-regularization-with-convex-objectives.pdf)**<br>Hongseok Namkoong (Stanford University); John Duchi (Stanford University)<br>3. **[A Linear-Time Kernel Goodness-of-Fit Test](https://arxiv.org/pdf/1705.07673.pdf)**<br>Wittawat Jitkrittum (University College London), Wenkai Xu (University College London), Zoltan Szabo (École Polytechnique), Kenji Fukumizu (The Institute of Statistical Mathematics), Arthur Gretton (University College London) |
+| 2016 | **[Value Iteration Networks](http://papers.nips.cc/paper/6046-value-iteration-networks.pdf)**<br>Aviv Tamar (UC Berkeley); Yi Wu (UC Berkeley); Garrett Thomas (UC Berkeley); Sergey Levine (UC Berkeley); Pieter Abbeel (UC Berkeley)|
+| 2015 | 1. **[Competitive Distribution Estimation: Why is Good-Turing Good](http://papers.nips.cc/paper/5762-competitive-distribution-estimation-why-is-good-turing-good.pdf)**<br>Alon Orlitsky (UC San Diego); Ananda Suresh (UC San Diego)<br>2. **[Fast Convergence of Regularized Learning in Games](http://papers.nips.cc/paper/5763-fast-convergence-of-regularized-learning-in-games.pdf)**<br>Vasilis Syrgkanis (Microsoft Research); Alekh Agarwal (Microsoft Research); Haipeng Luo (Princeton University); Robert Schapire (Microsoft Research) |
+| 2014 | 1. **[Asymmetric LSH (ALSH) for Sublinear Time Maximum Inner Product Search (MIPS)](http://papers.nips.cc/paper/5329-asymmetric-lsh-alsh-for-sublinear-time-maximum-inner-product-search-mips.pdf)**<br>Anshumali Shrivastava (Cornell University); Ping Li (Rutgers University)<br> 2. **[A\* Sampling](http://papers.nips.cc/paper/5449-a-sampling.pdf)**<br>Christopher Maddison (University of Toronto); Daniel Tarlow (Microsoft Research); Tom Minka (Microsoft Research) |
+| 2013 | 1. **[A memory frontier for complex synapses](http://papers.nips.cc/paper/4872-a-memory-frontier-for-complex-synapses.pdf)**<br>Subhaneil Lahiri (Stanford University); Surya Ganguli (Stanford University)<br>2. **[Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints](http://papers.nips.cc/paper/4911-submodular-optimization-with-submodular-cover-and-submodular-knapsack-constraints.pdf)**<br>Rishabh Iyer (University of Washington, Seattle); Jeff Bilmes (University of Washington, Seattle)<br>3. **[Scalable Influence Estimation in Continuous-Time Diffusion Networks](http://papers.nips.cc/paper/4857-scalable-influence-estimation-in-continuous-time-diffusion-networks.pdf)**<br>Nan Du (Georgia Tech); Le Song (Georgia Tech); Manuel Gomez-Rodriguez (MPI for Intelligent Systems); Hongyuan Zha (Georgia Tech) |
 
 <a id="icml"></a>
 ## ICML

@@ -25,6 +25,24 @@ This repo collects best papers from various top conferences (*since 2013*). All 
     + [ACL](#acl)
     + [EMNLP](#emnlp) (TODO)
 
+# Format
+
+This repo is writen in Markdown. Each entry follows the following format. 
+
+```markdown
+| Year | Paper |
+| :-:  |  :-   |
+| 2020 | **[Paper title](Link to pdf)**<br>AuthorName (Organization); AuthorName (Organization) |
+```
+
+When multiple best papers are available:
+
+```markdown
+| Year | Paper |
+| :-:  |  :-   |
+| 2020 | 1. **[Paper title](Link to pdf)**<br>AuthorName (Organization); AuthorName (Organization)<br>2. **[Paper title](Link to pdf)**<br>AuthorName (Organization); AuthorName (Organization) |
+```
+
 <a id="aaai"></a>
 ## AAAI
 The full list of AAAI outstanding papers (including best student papers and their Honorable Mentions) is presented on [this website](https://aaai.org/Awards/paper.php).

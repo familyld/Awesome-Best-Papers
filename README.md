@@ -161,9 +161,30 @@ The full list of SIGIR best papers is presented on [this website](https://sigir.
 
 <a id="icdm"></a>
 ## ICDM
+The full list of ICDM best papers and best student papers is presented on [this website](http://39.104.72.142:802/Awards/BestPapers.shtml).
+
+| Year | Paper |
+|:-:|:-|
+| 2019 | **[Deep Multi-attributed Graph Translation with Node-Edge Co-evolution](https://mason.gmu.edu/~lzhao9/materials/papers/ICDM_2019_NEC_DGT-final.pdf)**<br>Xiaojie Guo (George Mason University); Liang Zhao (George Mason University), Cameron Nowzari (George Mason University); Setareh Rafatirad (George Mason University); Houman Homayoun (George Mason University); Sai Manoj Pudukotai Dinakarrao (George Mason University) |
+| 2018 | **[Discovering Reliable Dependencies from Data: Hardness and Improved Algorithms](https://arxiv.org/pdf/1809.05467.pdf)**<br>Panagiotis Mandros (Max Planck Institute for Informatics); Mario Boley (Max Planck Institute for Informatics); Jilles Vreeken (Max Planck Institute for Informatics) |
+| 2017 | **[TensorCast: Forecasting with Context using Coupled Tensors](http://www.cs.cmu.edu/~christos/PUBLICATIONS/icdm17-tensor-cast-CR.pdf)**<br>Miguel Ramos de Araujo (Carnegie Mellon University); Pedro Manuel Pinto Ribeiro (University of Porto); Christos Faloutsos (Carnegie Mellon University) |
+| 2016 | **[KNN Classifier with Self Adjusting Memory for Heterogeneous Concept Drift]()**<br>Viktor Losing (Bielefeld University); Barbara Hammer (Bielefeld University); Heiko Wersing (HONDA Research Institute Europe) |
+| 2015 | **[Diamond Sampling for Approximate Maximum All-pairs Dot-product (MAD) Search](https://arxiv.org/pdf/1506.03872.pdf)**<br>Grey Ballard (Sandia National Laboratories); Seshadhri Comandur (University of California, Santa Cruz); Tamara Kolda (Sandia National Laboratories); Ali Pinar (Sandia National Laboratories) |
+| 2014 | **[Ternary Matrix Factorization](https://ieeexplore.ieee.org/document/7023357/)**<br>Sam Maurus (Technische Universität München); Claudia Plant (Technische Universität München) |
+| 2013 | **[Reconstructing Individual Mobility from Smart Card Transactions: A Space Alignment Approach](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icdm13_embed.pdf)**<br>Nicholas Jing Yuan (Microsoft Research); Yingzi Wang (University of Science and Technology of China); Fuzheng Zhang (University of Science and Technology of China); Xing Xie (Microsoft Research); Guang-Zhong Sun (University of Science and Technology of China) |
 
 <a id="wsdm"></a>
 ## WSDM
+
+| Year | Paper |
+|:-:|:-|
+| 2019 | **[Slice: Scalable Linear Extreme Classifiers trained on 100 Million Labels for Related Searches](http://manikvarma.org/pubs/jain19.pdf)**<br> Himanshu Jain (Indian Institute of Technology Delhi); Venkatesh Balasubramanian (Microsoft AI & Research); Bhanu Chunduri (Microsoft AI & Research); Manik Varma (Microsoft AI & Research) |
+| 2018 | **[Index Compression Using Byte-Aligned ANS Coding and Two-Dimensional Contexts](https://dl.acm.org/doi/10.1145/3159652.3159663)**<br> Alistair Moffat (The University of Melbourne); Matthias Petri (The University of Melbourne) |
+| 2017 | **[Unbiased Learning-to-Rank with Biased Feedback](https://dl.acm.org/doi/10.1145/3018661.3018699)**<br> Thorsten Joachims (Cornell University); Adith Swaminathan (Cornell University); Tobias Schnabel (Cornell University)|
+| 2016 | **[Beyond Ranking: Optimizing Whole-Page Presentation](http://www-personal.umich.edu/~qmei/pub/wsdm2016-ranking.pdf)**<br> Yue Wang (University of Michigan); Dawei Yin (2Yahoo Labs); Luo Jie (Snapchat); Pengyuan Wang (Yahoo Labs); Makoto Yamada (Yahoo Labs); Yi Chang (Yahoo Labs); Qiaozhu Mei (University of Michigan)|
+| 2015 | **[Inverting a Steady-State](http://theory.stanford.edu/~sergei/papers/wsdm15-cset.pdf)**<br> Ravi Kumar (Google); Andrew Tomkins (Google); Sergei Vassilvitskii (Google); Erik Vee (Google) |
+| 2014 | **[Scalable Hierarchical Multitask Learning Algorithms for Conversion Optimization in Display Advertising](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/42498.pdf)**<br>  Amr Ahmed (Google); Abhimanyu Das (Microsoft Research); Alex J. Smola (Carnegie Mellon University) |
+| 2013 | **[Optimized Interleaving for Online Retrieval Evaluation](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/02/Radlinski_Optimized_WSDM2013.pdf.pdf)**<br> Filip Radlinski (Microsoft); Nick Craswell (Microsoft) |
 
 ---
 

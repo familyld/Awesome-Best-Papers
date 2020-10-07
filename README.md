@@ -192,6 +192,8 @@ The full list of ICDM best papers and best student papers is presented on [this 
 <a id="cvpr"></a>
 ## CVPR
 
+The full list of CVPR best papers is presented on [this website](https://www.thecvf.com/?page_id=413#CVPRBest).
+
 | Year | Paper |
 |:-:|:-|
 | 2020 | **[Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://arxiv.org/pdf/1911.11130.pdf)**<br>Shangzhe Wu (University of Oxford); Christian Rupprecht (University of Oxford); Andrea Vedaldi (Oxford University) |
@@ -206,7 +208,7 @@ The full list of ICDM best papers and best student papers is presented on [this 
 <a id="iccv"></a>
 ## ICCV
 
-The ICCV Best Paper Award is also called the Marr Prize, named after British neuroscientist [David Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist)).
+The ICCV Best Paper Award is also called the Marr Prize, named after British neuroscientist [David Marr](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist)). The full list of ICCV best papers is presented on [this website](https://www.thecvf.com/?page_id=413#ICCVBest).
 
 | Year | Paper |
 |:-:|:-|
@@ -218,6 +220,14 @@ The ICCV Best Paper Award is also called the Marr Prize, named after British neu
 <a id="eccv"></a>
 ## ECCV
 
+The full list of ECCV best papers is presented on [this website](https://www.thecvf.com/?page_id=413#ECCVBest).
+
+| Year | Paper |
+|:-:|:-|
+| 2020 | **[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)**<br> Zachary Teed (Princeton University); Jia Deng (Princeton University) |
+| 2018 | **[Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection from RGB Images](https://arxiv.org/pdf/1902.01275.pdf)**<br> Martin Sundermeyer (German Aerospace Center); Zoltan-Csaba Marton (German Aerospace Center); Maximilian Durner (German Aerospace Center); Rudolph Triebel (German Aerospace Center) |
+| 2016 | **[Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf)**<br> Hanme Kim (Imperial College London); Stefan Leutenegger (Imperial College London); Andrew J. Davison (Imperial College London) |
+| 2014 | 1. **[Large-Scale Object Classification using Label Relation Graphs](https://www.cs.princeton.edu/~jiadeng/paper/deng2014large.pdf)**<br> Jia Deng (University of Michigan); Nan Ding (Google); Yangqing Jia (Google); Andrea Frome (Google); Kevin Murphy (Google); Samy Bengio (Google); Yuan Li (Google); Hartmut Neven (Google); Hartwig Adam (Google) <br>2. **[Scene Chronology](http://www.cs.cornell.edu/~snavely/publications/matzen_eccv2014.pdf)**<br> Kevin Matzen (Cornell University); Noah Snavely (Cornell University) |
 ---
 
 <a id="acl"></a>

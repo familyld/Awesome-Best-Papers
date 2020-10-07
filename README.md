@@ -18,6 +18,7 @@ This repo collects best papers from various top conferences (*since 2013*), incl
     + [CIKM](#cikm)
     + [ICDM](#icdm)
     + [WSDM](#wsdm)
+    + [RecSys](#recsys)
 - Computer Vision
     + [CVPR](#cvpr)
     + [ICCV](#iccv)
@@ -187,6 +188,20 @@ The full list of ICDM best papers and best student papers is presented on [this 
 | 2015 | **[Inverting a Steady-State](http://theory.stanford.edu/~sergei/papers/wsdm15-cset.pdf)**<br> Ravi Kumar (Google); Andrew Tomkins (Google); Sergei Vassilvitskii (Google); Erik Vee (Google) |
 | 2014 | **[Scalable Hierarchical Multitask Learning Algorithms for Conversion Optimization in Display Advertising](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/42498.pdf)**<br>  Amr Ahmed (Google); Abhimanyu Das (Microsoft Research); Alex J. Smola (Carnegie Mellon University) |
 | 2013 | **[Optimized Interleaving for Online Retrieval Evaluation](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/02/Radlinski_Optimized_WSDM2013.pdf.pdf)**<br> Filip Radlinski (Microsoft); Nick Craswell (Microsoft) |
+
+<a id="recsys"></a>
+## RecSys
+
+| Year | Paper |
+|:-:|:-|
+| 2020 | **[Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)**<br> Hongyan Tang (Tencent PCG); Junning Liu (Tencent PCG); Ming Zhao (Tencent PCG); Xudong Gong (Tencent PCG) |
+| 2019 | **[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)**<br>  Maurizio Ferrari Dacrema (Politecnico di Milano); Paolo Cremonesi (Politecnico di Milano); Dietmar Jannach (University of Klagenfurt) |
+| 2018 | **[Causal Embeddings for Recommendation](https://arxiv.org/pdf/1706.07639.pdf)**<br> Stephen Bonner (Criteo AI Labs); Flavian Vasile (Criteo AI Labs) |
+| 2017 | **[Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and Recommendations]()**<br> Xiaoying Zhang (The Chinese University of Hong Kong); Junzhou Zhao (The Chinese University of Hong Kong); John C.S. Lui (The Chinese University of Hong Kong) |
+| 2016 | **[Local Item-Item Models for Top-N Recommendation](https://www-users.cs.umn.edu/~chri2951/recsy368-christakopoulouA.pdf)**<br> Evangelia Christakopoulou (University of Minnesota); George Karypis (University of Minnesota) |
+| 2015 | **[Context-Aware Event Recommendation in Event-based Social Networks](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.8211&rep=rep1&type=pdf)**<br> Augusto Q. Macedo (Federal University of Campina Grande); Leandro B. Marinho (Federal University of Campina Grande); Rodrygo L.T. Santos (Federal University of Campina Grande) |
+| 2014 | **[Beyond Clicks: Dwell Time for Personalization](http://www.hongliangjie.com/publications/recsys2014.pdf)**<br> Xing Yi (Yahoo Labs); Liangjie Hong (Yahoo Labs); Erheng Zhong (Yahoo Labs); Nathan Nan Liu (Yahoo Labs); Suju Rajan (Yahoo Labs) |
+| 2013 | **[A Fast Parallel SGD for Matrix Factorization in Shared Memory Systems](https://www.csie.ntu.edu.tw/~cjlin/papers/libmf/libmf.pdf)**<br> Yong Zhuang (National Taiwan University); Wei-Sheng Chin (National Taiwan University); Yu-Chih Juan (National Taiwan University); Chih-Jen Lin (National Taiwan University) |
 
 ---
 

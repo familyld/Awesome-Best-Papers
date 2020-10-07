@@ -21,10 +21,10 @@ This repo collects best papers from various top conferences (*since 2013*), incl
 - Computer Vision
     + [CVPR](#cvpr)
     + [ICCV](#iccv)
-    + [ECCV](#eccv) (TODO)
+    + [ECCV](#eccv)
 - Natural Language Processing 
     + [ACL](#acl)
-    + [EMNLP](#emnlp) (TODO)
+    + [EMNLP](#emnlp)
 
 # Format
 
@@ -233,6 +233,8 @@ The full list of ECCV best papers is presented on [this website](https://www.the
 <a id="acl"></a>
 ## ACL
 
+The full list of ACL best papers is presented on [this website](https://aclweb.org/aclwiki/Best_paper_awards#ACL).
+
 | Year | Paper |
 |:-:|:-|
 | 2020 | **[Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)**<br>Marco Tulio Ribeiro (Microsoft Research), Tongshuang Wu (University of Washington), Carlos Guestrin (University of Washington), Sameer Singh (University of Washington) |
@@ -246,3 +248,16 @@ The full list of ECCV best papers is presented on [this website](https://www.the
 
 <a id="emnlp"></a>
 ## EMNLP
+
+The full list of EMNLP best papers is presented on [this website](https://aclweb.org/aclwiki/Best_paper_awards#EMNLP).
+
+| Year | Paper |
+|:-:|:-|
+| 2019 | **[Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://arxiv.org/pdf/1910.00163.pdf)**<br> Xiang Lisa Li (Johns Hopkins University); Jason Eisner (Johns Hopkins University) |
+| 2018 | **[Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/pdf/2005.04118.pdf)**<br> Emma Strubell (University of Massachusetts Amherst); Patrick Verga (University of Massachusetts Amherst); Daniel Andor (Google AI Language); David Weiss (Google AI Language); Andrew McCallum (University of Massachusetts Amherst) |
+| 2017 | 1. **[Depression and Self-Harm Risk Assessment in Online Forums](https://arxiv.org/pdf/1709.01848.pdf)**<br> Andrew Yates (†Max Planck Institute for Informatics); Arman Cohan (Georgetown University); Nazli Goharian (Georgetown University) <br>2. **[Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)**<br> Jieyu Zhao (University of Virginia); Tianlu Wang (University of Virginia); Mark Yatskar (University of Washington); Vicente Ordonez (University of Virginia); Kai-Wei Chang (University of Virginia) |
+| 2016 | 1. **[Global Neural CCG Parsing with Optimality Guarantees](https://arxiv.org/pdf/1607.01432.pdf)**<br> Kenton Lee (University of Washington); Mike Lewis (University of Washington); Luke Zettlemoyer (University of Washington) <br>2. **[Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](https://arxiv.org/pdf/1603.07954.pdf)**<br> Karthik Narasimhan (Massachusetts Institute of Technology); Adam Yala (Massachusetts Institute of Technology); Regina Barzilay (Massachusetts Institute of Technology) |
+| 2015 | 1. **[Broad-coverage CCG Semantic Parsing with AMR](https://www.aclweb.org/anthology/D15-1198.pdf)**<br> Yoav Artzi (Cornell University); Kenton Lee (University of Washington); Luke Zettlemoyer (University of Washington) <br>2. **[Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems](https://arxiv.org/pdf/1508.01745.pdf)**<br> Tsung-Hsien Wen (Cambridge University); Milica Gasic (Cambridge University); Nikola Mrkši´c (Cambridge University); Pei-Hao Su (Cambridge University); David Vandyke (Cambridge University); Steve Young (Cambridge University) |
+| 2014 | **[Modeling Biological Processes for Reading Comprehension](https://www.aclweb.org/anthology/D14-1159v2.pdf)**<br> Vivek Srikumar (Stanford University); Pei-Chun Chen (Stanford University); Abby Vander Linden (Stanford University); Brittany Harding (Stanford University); Brad Huang (Stanford University); Peter Clark (Stanford University); Christopher D. Manning (Stanford University) |
+| 2013 | **[Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction](https://www.aclweb.org/anthology/D13-1204.pdf)**<br> Valentin Spitkovsky (Stanford University); Hiyan Alshawi (Stanford University); Daniel Jurafsky (Stanford University) |
+

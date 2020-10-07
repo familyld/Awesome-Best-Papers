@@ -1,8 +1,8 @@
 # Awesome Best Papers
 
-本项目收集了各大顶会的最佳论文（*自 2013 年起*）。所有的数据都是手工输入的，所以 *如果你发现有任何错误，欢迎开个 issue 提醒我*。你也可以通过 *创建 pull requests* 的方式参与到这个项目中来。项目中的部分数据参考了 Jeff Huang 的网站，他收集了自 1996 年起计算机科学领域部分顶会的最佳论文，如果你感兴趣，也可以访问[他的网站](https://jeffhuang.com/best_paper_awards.html)。
+本项目收集了各大顶会的最佳论文（*自 2013 年起*），包括*论文名、论文链接、作者名以及机构名*（多个机构并列时记录第一个）。所有的数据都是手工输入的，所以 *如果你发现有任何错误，欢迎开个 issue 提醒我*。你也可以通过 *创建 pull requests* 的方式参与到这个项目中来，加入机器人、优化、图形学等本项目未包含领域的顶会最佳论文信息（**非常欢迎**）。项目中的部分数据参考了 Jeff Huang 的网站，他收集了自 1996 年起计算机科学领域部分顶会的最佳论文，如果你感兴趣，也可以访问[他的网站](https://jeffhuang.com/best_paper_awards.html)。
 
-This repo collects best papers from various top conferences (*since 2013*). All the data are collected and entered by hand, so *feel free to open an issue if you find anything wrong*. You can also contribute to this repo by *creating pull requests*. Part of the data is collected by Jeff Huang. If you are interested in more best papers in computer science (since 1996), you can visit [his website](https://jeffhuang.com/best_paper_awards.html).
+This repo collects best papers from various top conferences (*since 2013*), including *paper names and links, author names and organization names* (use the first one when the author works for multiple organizations). All the data are collected and entered by hand, so *feel free to open an issue if you find anything wrong*. You can also contribute to this repo by *creating pull requests* and add best papers from top conferences in research areas that are not covered in this repo, e.g., robotics, optimization, computer graphics and etc (**very welcome**). Part of the data is collected by Jeff Huang. If you are interested in more best papers in computer science (since 1996), you can visit [his website](https://jeffhuang.com/best_paper_awards.html).
 
 # Table of Content
 - Cross-domain
@@ -16,11 +16,12 @@ This repo collects best papers from various top conferences (*since 2013*). All 
     + [KDD](#kdd)
     + [SIGIR](#sigir)
     + [CIKM](#cikm)
-    + [ICDM](#icdm) (TODO)
-    + [WSDM](#wsdm) (TODO)
+    + [ICDM](#icdm)
+    + [WSDM](#wsdm)
 - Computer Vision
     + [CVPR](#cvpr)
     + [ICCV](#iccv)
+    + [ECCV](#eccv) (TODO)
 - Natural Language Processing 
     + [ACL](#acl)
     + [EMNLP](#emnlp) (TODO)
@@ -213,6 +214,9 @@ The ICCV Best Paper Award is also called the Marr Prize, named after British neu
 | 2017 | **[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)**<br> Kaiming He (Facebook AI Research); Georgia Gkioxari (Facebook AI Research); Piotr Dollar (Facebook AI Research); Ross Girshick (Facebook AI Research) |
 | 2015 | **[Deep Neural Decision Forests](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf)**<br>Peter Kontschieder (Microsoft Research); Madalina Fiterau (Carnegie Mellon University); Antonio Criminisi (Microsoft Research); Samuel Rota Bulò (Microsoft Research) |
 | 2013 | **[From Large Scale Image Categorization to Entry-Level Categories](https://homes.cs.washington.edu/~yejin/Papers/iccv13_entrylevel.pdf)**<br>Vicente Ordonez (University of North Carolina at Chapel Hill); Jia Deng (Stanford University); Yejin Choi (Stony Brook University); Alexander Berg (University of North Carolina at Chapel Hill); Tamara Berg (University of North Carolina at Chapel Hill) |
+
+<a id="eccv"></a>
+## ECCV
 
 ---
 

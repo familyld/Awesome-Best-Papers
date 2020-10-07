@@ -25,6 +25,7 @@ This repo collects best papers from various top conferences (*since 2013*), incl
 - Natural Language Processing 
     + [ACL](#acl)
     + [EMNLP](#emnlp)
+    + [NAACL](#naacl)
 
 # Format
 
@@ -261,3 +262,14 @@ The full list of EMNLP best papers is presented on [this website](https://aclweb
 | 2014 | **[Modeling Biological Processes for Reading Comprehension](https://www.aclweb.org/anthology/D14-1159v2.pdf)**<br> Vivek Srikumar (Stanford University); Pei-Chun Chen (Stanford University); Abby Vander Linden (Stanford University); Brittany Harding (Stanford University); Brad Huang (Stanford University); Peter Clark (Stanford University); Christopher D. Manning (Stanford University) |
 | 2013 | **[Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction](https://www.aclweb.org/anthology/D13-1204.pdf)**<br> Valentin Spitkovsky (Stanford University); Hiyan Alshawi (Stanford University); Daniel Jurafsky (Stanford University) |
 
+<a id="naacl"></a>
+## NAACL
+
+The full list of NAACL best papers is presented on [this website](https://aclweb.org/aclwiki/Best_paper_awards#NAACL).
+
+| Year | Paper |
+|:-:|:-|
+| 2019 | **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423.pdf)**<br> Jacob Devlin (Google AI Language); Ming-Wei Chang (Google AI Language); Kenton Lee (Google AI Language); Kristina Toutanova (Google AI Language) |
+| 2018 | **[Deep contextualized word representations](https://www.aclweb.org/anthology/N18-1202.pdf)**<br> Matthew E. Peters (Allen Institute for Artificial Intelligence); Mark Neumann (Allen Institute for Artificial Intelligence); Mohit Iyyer (Allen Institute for Artificial Intelligence); Matt Gardner (Allen Institute for Artificial Intelligence); Christopher Clark (University of Washington); Kenton Lee (University of Washington); Luke Zettlemoyer (Allen Institute for Artificial Intelligence) |
+| 2016 | 1. **[Feuding Families and Former Friends; Unsupervised Learning for Dynamic Fictional Relationships](https://www.aclweb.org/anthology/N16-1180.pdf)**<br> Mohit Iyyer (University of Maryland); Anupam Guha (University of Maryland); Snigdha Chaturvedi (University of Maryland); Jordan Boyd-Graber (University of Colorado); Hal Daumé III (University of Maryland) <br>2. **[Learning to Compose Neural Networks for Question Answering](https://www.aclweb.org/anthology/N16-1181.pdf)** Jacob Andreas (University of California, Berkeley); Marcus Rohrbach (University of California, Berkeley); Trevor Darrell (University of California, Berkeley); Dan Klein (University of California, Berkeley) |
+| 2015 | **[Unsupervised Morphology Induction Using Word Embeddings](https://www.aclweb.org/anthology/N15-1186.pdf)**<br> Radu Soricut (Google); Franz Och (Human Longevity) |

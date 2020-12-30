@@ -168,6 +168,7 @@ The full list of ICDM best papers and best student papers is presented on [this 
 
 | Year | Paper |
 |:-:|:-|
+| 2020 | **[The Power of Pivoting for Exact Clique Counting](https://arxiv.org/pdf/2001.06784.pdf)**<br>Shweta Jain (University of California, Santa Cruz); C. Seshadhri (University of California, Santa Cruz) |
 | 2019 | **[Slice: Scalable Linear Extreme Classifiers trained on 100 Million Labels for Related Searches](http://manikvarma.org/pubs/jain19.pdf)**<br> Himanshu Jain (Indian Institute of Technology Delhi); Venkatesh Balasubramanian (Microsoft AI & Research); Bhanu Chunduri (Microsoft AI & Research); Manik Varma (Microsoft AI & Research) |
 | 2018 | **[Index Compression Using Byte-Aligned ANS Coding and Two-Dimensional Contexts](https://dl.acm.org/doi/10.1145/3159652.3159663)**<br> Alistair Moffat (The University of Melbourne); Matthias Petri (The University of Melbourne) |
 | 2017 | **[Unbiased Learning-to-Rank with Biased Feedback](https://dl.acm.org/doi/10.1145/3018661.3018699)**<br> Thorsten Joachims (Cornell University); Adith Swaminathan (Cornell University); Tobias Schnabel (Cornell University)|

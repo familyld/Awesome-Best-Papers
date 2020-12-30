@@ -154,6 +154,7 @@ The full list of ICDM best papers and best student papers is presented on [this 
 
 | Year | Paper |
 |:-:|:-|
+| 2020 | **[Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://jiyang3.web.engr.illinois.edu/files/taxogan.pdf)**<br>Carl Yang (University of Illinois, Urbana Champaign); Jieyu Zhang (University of Illinois, Urbana Champaign); Jiawei Han (University of Illinois, Urbana Champaign) |
 | 2019 | **[Deep Multi-attributed Graph Translation with Node-Edge Co-evolution](https://mason.gmu.edu/~lzhao9/materials/papers/ICDM_2019_NEC_DGT-final.pdf)**<br>Xiaojie Guo (George Mason University); Liang Zhao (George Mason University), Cameron Nowzari (George Mason University); Setareh Rafatirad (George Mason University); Houman Homayoun (George Mason University); Sai Manoj Pudukotai Dinakarrao (George Mason University) |
 | 2018 | **[Discovering Reliable Dependencies from Data: Hardness and Improved Algorithms](https://arxiv.org/pdf/1809.05467.pdf)**<br>Panagiotis Mandros (Max Planck Institute for Informatics); Mario Boley (Max Planck Institute for Informatics); Jilles Vreeken (Max Planck Institute for Informatics) |
 | 2017 | **[TensorCast: Forecasting with Context using Coupled Tensors](http://www.cs.cmu.edu/~christos/PUBLICATIONS/icdm17-tensor-cast-CR.pdf)**<br>Miguel Ramos de Araujo (Carnegie Mellon University); Pedro Manuel Pinto Ribeiro (University of Porto); Christos Faloutsos (Carnegie Mellon University) |

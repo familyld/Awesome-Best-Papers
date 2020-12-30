@@ -257,6 +257,7 @@ The full list of EMNLP best papers is presented on [this website](https://aclweb
 
 | Year | Paper |
 |:-:|:-|
+| 2020 | [**Digital voicing of Silent Speech**](https://arxiv.org/pdf/2010.02960.pdf)<br>David Gaddy (University of California, Berkeley); Dan Klein (University of California, Berkeley) |
 | 2019 | **[Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://arxiv.org/pdf/1910.00163.pdf)**<br> Xiang Lisa Li (Johns Hopkins University); Jason Eisner (Johns Hopkins University) |
 | 2018 | **[Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/pdf/1804.08199.pdf)**<br> Emma Strubell (University of Massachusetts Amherst); Patrick Verga (University of Massachusetts Amherst); Daniel Andor (Google AI Language); David Weiss (Google AI Language); Andrew McCallum (University of Massachusetts Amherst) |
 | 2017 | 1. **[Depression and Self-Harm Risk Assessment in Online Forums](https://arxiv.org/pdf/1709.01848.pdf)**<br> Andrew Yates (†Max Planck Institute for Informatics); Arman Cohan (Georgetown University); Nazli Goharian (Georgetown University) <br>2. **[Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)**<br> Jieyu Zhao (University of Virginia); Tianlu Wang (University of Virginia); Mark Yatskar (University of Washington); Vicente Ordonez (University of Virginia); Kai-Wei Chang (University of Virginia) |

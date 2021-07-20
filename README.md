@@ -138,6 +138,7 @@ The full list of SIGIR best papers is presented on [this website](https://sigir.
 
 | Year | Paper |
 |:-:|:-|
+| 2021 | **[Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness](https://arxiv.org/pdf/2105.00855.pdf)**<br>Harrie Oosterhuis (Radboud University) |
 | 2020 | **[Controlling Fairness and Bias in Dynamic Learning-to-Rank](https://arxiv.org/pdf/2005.14713.pdf)**<br>Marco Morik (Technische Univerität Berlin); Ashudeep Singh (Cornell University); Jessica Hong (Cornell University); Thorsten Joachims (Cornell University) |
 | 2019 | **[Variance Reduction in Gradient Exploration for Online Learning to Rank](https://arxiv.org/pdf/1906.03766.pdf)**<br> Huazheng Wang (University of Virginia); Sonwoo Kim (University of Virginia); Eric McCord-Snook (University of Virginia); Qingyun Wu (University of Virginia); Hongning Wang (University of Virginia) |
 | 2018 | **[Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems](http://ir.ii.uam.es/pubs/sigir2018.pdf)**<br>Rocío Cañamares (Universidad Autónoma de Madrid); Pablo Castells (Universidad Autónoma de Madrid) |

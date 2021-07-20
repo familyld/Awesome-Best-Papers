@@ -213,6 +213,7 @@ The full list of CVPR best papers is presented on [this website](https://www.the
 
 | Year | Paper |
 |:-:|:-|
+| 2021 | **[GIRAFFE: Representing Scenes As Compositional Generative Neural Feature Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.pdf)**<br>Michael Niemeyer (Max Planck Institute for Intelligent Systems); Andreas Geiger (University of Tubingen) |
 | 2020 | **[Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://arxiv.org/pdf/1911.11130.pdf)**<br>Shangzhe Wu (University of Oxford); Christian Rupprecht (University of Oxford); Andrea Vedaldi (Oxford University) |
 | 2019 | **[A theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](https://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf)**<br>Shumian Xin (Carnegie Mellon University); Sotiris Nousias (University of Toronto); Kiriakos N. Kutulakos (University of Toronto); Aswin C. Sankaranarayanan (Carnegie Mellon University); Srinivasa G. Narasimhan (Carnegie Mellon University); Ioannis Gkioulekas (Carnegie Mellon University) |
 | 2018 | **[Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/pdf/1804.08328.pdf)**<br>Amir R. Zamir (Stanford University); Alexander Sax (Stanford University); William Shen (Stanford University); Leonidas Guibas (Stanford University); Jitendra Malik (University of California Berkeley); Silvio Savarese (Stanford University) |

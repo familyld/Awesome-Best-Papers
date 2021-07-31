@@ -30,6 +30,36 @@ When multiple best papers are available:
 | 2020 | 1. **[Paper title](Link to pdf)**<br>AuthorName (Organization); AuthorName (Organization)<br>2. **[Paper title](Link to pdf)**<br>AuthorName (Organization); AuthorName (Organization) |
 ```
 
+# Deadlines
+Thanks to [Abhishek Das](https://github.com/abhshkdz) and [Jackie Tseng](https://github.com/JackieTseng/), the exact dates of AI conferences are available on:
+
+1. [AI Conference Deadlines](https://aideadlin.es/)
+2. [jackietseng.github.io/conference_call_for_paper](https://jackietseng.github.io/conference_call_for_paper/conferences.html)
+
+To make it easier to find the most recent conferences, the following table sorts each conference by therir deadlines.
+
+| Conference | Date | Deadline |
+|:-:|:-:|:-:|
+| CVPR | Late Jun | Mid Jan |
+| IJCAI | Late Aug | Late Jan |
+| SIGIR | Mid Jul | Early Feb |
+| ICML | Late Jul | Early Feb |
+| KDD | Mid Aug | Early Feb |
+| ECCV | Late Aug | Early Mar |
+| ICCV | Mid Oct | Mid Mar |
+| RecSys | Late Sep | Early May |
+| EMNLP | Mid Nov | Mid May |
+| NeurIPS | Early Dec | Late May |
+| CIKM | Early Nov | Late May |
+| ICDM | Early Dec | Mid Jun |
+| ACL | Early Feb | Early Aug |
+| WSDM | Late Feb | Early Aug |
+| AAAI | Late Feb | Early Sep |
+| EACL | Late Apr | Early Oct |
+| ICLR | Late Apr | Early Oct |
+| WWW | Late Apr | Late Oct |
+| NAACL | Early Jun | Late Nov |
+# List of Best Papers
 <a id="aaai"></a>
 ## AAAI
 The full list of AAAI outstanding papers (including best student papers and their Honorable Mentions) is presented on [this website](https://aaai.org/Awards/paper.php).
@@ -274,7 +304,7 @@ The full list of EMNLP best papers is presented on [this website](https://aclweb
 
 | Year | Paper |
 |:-:|:-|
-| 2020 | [**Digital voicing of Silent Speech**](https://arxiv.org/pdf/2010.02960.pdf)<br>David Gaddy (University of California, Berkeley); Dan Klein (University of California, Berkeley) |
+| 2020 | **[Digital voicing of Silent Speech](https://arxiv.org/pdf/2010.02960.pdf)**<br>David Gaddy (University of California, Berkeley); Dan Klein (University of California, Berkeley) |
 | 2019 | **[Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://arxiv.org/pdf/1910.00163.pdf)**<br> Xiang Lisa Li (Johns Hopkins University); Jason Eisner (Johns Hopkins University) |
 | 2018 | **[Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/pdf/1804.08199.pdf)**<br> Emma Strubell (University of Massachusetts Amherst); Patrick Verga (University of Massachusetts Amherst); Daniel Andor (Google AI Language); David Weiss (Google AI Language); Andrew McCallum (University of Massachusetts Amherst) |
 | 2017 | 1. **[Depression and Self-Harm Risk Assessment in Online Forums](https://arxiv.org/pdf/1709.01848.pdf)**<br> Andrew Yates (Max Planck Institute for Informatics); Arman Cohan (Georgetown University); Nazli Goharian (Georgetown University) <br>2. **[Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)**<br> Jieyu Zhao (University of Virginia); Tianlu Wang (University of Virginia); Mark Yatskar (University of Washington); Vicente Ordonez (University of Virginia); Kai-Wei Chang (University of Virginia) |
